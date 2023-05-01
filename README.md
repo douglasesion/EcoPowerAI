@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/96123354/235550347-effff69a-c798-4564-9584-ad1c930bd186.png)
+
 # EcoPowerAI
  Monitoramento e Controle Inteligente de Energia Elétrica em Plantas Industriais
 O projeto EcoPowerAI é um "Sistemas de monitoramento e controle de energia elétrica em plantas industriais, utilizando algoritmos de inteligência artificial para otimização de consumo" tem como objetivo oferecer uma solução inovadora para o monitoramento e controle de energia elétrica em plantas industriais, utilizando algoritmos de inteligência artificial para otimização de consumo. O sistema irá coletar dados de consumo de energia elétrica em tempo real, analisá-los e gerar relatórios para identificar oportunidades de redução de consumo e custos.
